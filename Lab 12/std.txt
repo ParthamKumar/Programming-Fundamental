@@ -1,0 +1,15 @@
+
+partham 
+ Marks =50 
+
+kumar 
+ Marks =40 
+
+ Name of harry 
+ Marks =20 
+
+ Name of jack 
+ Marks =30 
+
+ Name of marky 
+ Marks =60 
